@@ -1,0 +1,991 @@
+STATENAME,ACTIVITY_LEVEL,WEEK,SEASON,STATE_ABBR
+Alabama,Level 1,40,2024-25,AL
+Alaska,Level 1,40,2024-25,AK
+Arizona,Level 1,40,2024-25,AZ
+Arkansas,Level 1,40,2024-25,AR
+California,Level 1,40,2024-25,CA
+Colorado,Level 1,40,2024-25,CO
+Connecticut,Level 3,40,2024-25,CT
+Delaware,Level 1,40,2024-25,DE
+District of Columbia,Level 2,40,2024-25,
+Florida,Level 1,40,2024-25,FL
+Georgia,Level 2,40,2024-25,GA
+Hawaii,Level 1,40,2024-25,HI
+Idaho,Level 1,40,2024-25,ID
+Illinois,Level 1,40,2024-25,IL
+Indiana,Level 3,40,2024-25,IN
+Iowa,Level 1,40,2024-25,IA
+Kansas,Level 1,40,2024-25,KS
+Kentucky,Level 1,40,2024-25,KY
+Louisiana,Level 1,40,2024-25,LA
+Maine,Level 1,40,2024-25,ME
+Maryland,Level 2,40,2024-25,MD
+Massachusetts,Level 2,40,2024-25,MA
+Michigan,Level 1,40,2024-25,MI
+Minnesota,Level 1,40,2024-25,MN
+Mississippi,Level 2,40,2024-25,MS
+Missouri,Level 1,40,2024-25,MO
+Montana,Level 1,40,2024-25,MT
+Nebraska,Level 1,40,2024-25,NE
+Nevada,Level 1,40,2024-25,NV
+New Hampshire,Level 2,40,2024-25,NH
+New Jersey,Level 3,40,2024-25,NJ
+New Mexico,Level 1,40,2024-25,NM
+New York,Level 2,40,2024-25,NY
+North Carolina,Level 2,40,2024-25,NC
+North Dakota,Level 1,40,2024-25,ND
+Ohio,Level 1,40,2024-25,OH
+Oklahoma,Level 1,40,2024-25,OK
+Oregon,Level 1,40,2024-25,OR
+Pennsylvania,Level 2,40,2024-25,PA
+Rhode Island,Level 2,40,2024-25,RI
+South Carolina,Level 1,40,2024-25,SC
+South Dakota,Level 1,40,2024-25,SD
+Tennessee,Level 1,40,2024-25,TN
+Texas,Level 1,40,2024-25,TX
+Utah,Level 1,40,2024-25,UT
+Vermont,Level 1,40,2024-25,VT
+Virginia,Level 2,40,2024-25,VA
+Washington,Level 1,40,2024-25,WA
+West Virginia,Level 1,40,2024-25,WV
+Wisconsin,Level 2,40,2024-25,WI
+Wyoming,Level 1,40,2024-25,WY
+New York City,Level 2,40,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,40,2024-25,
+Puerto Rico,Level 1,40,2024-25,
+Virgin Islands,Level 2,40,2024-25,
+Alabama,Level 2,41,2024-25,AL
+Alaska,Level 1,41,2024-25,AK
+Arizona,Level 1,41,2024-25,AZ
+Arkansas,Level 1,41,2024-25,AR
+California,Level 1,41,2024-25,CA
+Colorado,Level 1,41,2024-25,CO
+Connecticut,Level 3,41,2024-25,CT
+Delaware,Level 1,41,2024-25,DE
+District of Columbia,Level 4,41,2024-25,
+Florida,Level 1,41,2024-25,FL
+Georgia,Level 2,41,2024-25,GA
+Hawaii,Level 1,41,2024-25,HI
+Idaho,Level 1,41,2024-25,ID
+Illinois,Level 1,41,2024-25,IL
+Indiana,Level 3,41,2024-25,IN
+Iowa,Level 1,41,2024-25,IA
+Kansas,Level 1,41,2024-25,KS
+Kentucky,Level 1,41,2024-25,KY
+Louisiana,Level 1,41,2024-25,LA
+Maine,Level 2,41,2024-25,ME
+Maryland,Level 3,41,2024-25,MD
+Massachusetts,Level 2,41,2024-25,MA
+Michigan,Level 1,41,2024-25,MI
+Minnesota,Level 1,41,2024-25,MN
+Mississippi,Level 2,41,2024-25,MS
+Missouri,Level 1,41,2024-25,MO
+Montana,Level 1,41,2024-25,MT
+Nebraska,Level 1,41,2024-25,NE
+Nevada,Level 1,41,2024-25,NV
+New Hampshire,Level 2,41,2024-25,NH
+New Jersey,Level 4,41,2024-25,NJ
+New Mexico,Level 1,41,2024-25,NM
+New York,Level 3,41,2024-25,NY
+North Carolina,Level 2,41,2024-25,NC
+North Dakota,Level 1,41,2024-25,ND
+Ohio,Level 2,41,2024-25,OH
+Oklahoma,Level 1,41,2024-25,OK
+Oregon,Level 1,41,2024-25,OR
+Pennsylvania,Level 2,41,2024-25,PA
+Rhode Island,Level 2,41,2024-25,RI
+South Carolina,Level 2,41,2024-25,SC
+South Dakota,Level 1,41,2024-25,SD
+Tennessee,Level 1,41,2024-25,TN
+Texas,Level 1,41,2024-25,TX
+Utah,Level 1,41,2024-25,UT
+Vermont,Level 1,41,2024-25,VT
+Virginia,Level 3,41,2024-25,VA
+Washington,Level 1,41,2024-25,WA
+West Virginia,Level 1,41,2024-25,WV
+Wisconsin,Level 3,41,2024-25,WI
+Wyoming,Level 1,41,2024-25,WY
+New York City,Level 3,41,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,41,2024-25,
+Puerto Rico,Level 1,41,2024-25,
+Virgin Islands,Level 1,41,2024-25,
+Alabama,Level 2,42,2024-25,AL
+Alaska,Level 3,42,2024-25,AK
+Arizona,Level 1,42,2024-25,AZ
+Arkansas,Level 1,42,2024-25,AR
+California,Level 1,42,2024-25,CA
+Colorado,Level 1,42,2024-25,CO
+Connecticut,Level 4,42,2024-25,CT
+Delaware,Level 1,42,2024-25,DE
+District of Columbia,Level 6,42,2024-25,
+Florida,Level 1,42,2024-25,FL
+Georgia,Level 2,42,2024-25,GA
+Hawaii,Level 1,42,2024-25,HI
+Idaho,Level 1,42,2024-25,ID
+Illinois,Level 1,42,2024-25,IL
+Indiana,Level 4,42,2024-25,IN
+Iowa,Level 1,42,2024-25,IA
+Kansas,Level 1,42,2024-25,KS
+Kentucky,Level 1,42,2024-25,KY
+Louisiana,Level 1,42,2024-25,LA
+Maine,Level 2,42,2024-25,ME
+Maryland,Level 3,42,2024-25,MD
+Massachusetts,Level 3,42,2024-25,MA
+Michigan,Level 1,42,2024-25,MI
+Minnesota,Level 1,42,2024-25,MN
+Mississippi,Level 1,42,2024-25,MS
+Missouri,Level 2,42,2024-25,MO
+Montana,Level 1,42,2024-25,MT
+Nebraska,Level 1,42,2024-25,NE
+Nevada,Level 1,42,2024-25,NV
+New Hampshire,Level 2,42,2024-25,NH
+New Jersey,Level 5,42,2024-25,NJ
+New Mexico,Level 1,42,2024-25,NM
+New York,Level 3,42,2024-25,NY
+North Carolina,Level 3,42,2024-25,NC
+North Dakota,Level 1,42,2024-25,ND
+Ohio,Level 4,42,2024-25,OH
+Oklahoma,Level 1,42,2024-25,OK
+Oregon,Level 1,42,2024-25,OR
+Pennsylvania,Level 2,42,2024-25,PA
+Rhode Island,Level 3,42,2024-25,RI
+South Carolina,Level 3,42,2024-25,SC
+South Dakota,Level 1,42,2024-25,SD
+Tennessee,Level 1,42,2024-25,TN
+Texas,Level 1,42,2024-25,TX
+Utah,Level 1,42,2024-25,UT
+Vermont,Level 1,42,2024-25,VT
+Virginia,Level 4,42,2024-25,VA
+Washington,Level 1,42,2024-25,WA
+West Virginia,Level 1,42,2024-25,WV
+Wisconsin,Level 3,42,2024-25,WI
+Wyoming,Level 1,42,2024-25,WY
+New York City,Level 3,42,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,42,2024-25,
+Puerto Rico,Level 1,42,2024-25,
+Virgin Islands,Level 1,42,2024-25,
+Alabama,Level 2,43,2024-25,AL
+Alaska,Level 1,43,2024-25,AK
+Arizona,Level 1,43,2024-25,AZ
+Arkansas,Level 2,43,2024-25,AR
+California,Level 1,43,2024-25,CA
+Colorado,Level 1,43,2024-25,CO
+Connecticut,Level 4,43,2024-25,CT
+Delaware,Level 1,43,2024-25,DE
+District of Columbia,Level 7,43,2024-25,
+Florida,Level 2,43,2024-25,FL
+Georgia,Level 4,43,2024-25,GA
+Hawaii,Level 1,43,2024-25,HI
+Idaho,Level 1,43,2024-25,ID
+Illinois,Level 1,43,2024-25,IL
+Indiana,Level 4,43,2024-25,IN
+Iowa,Level 2,43,2024-25,IA
+Kansas,Level 2,43,2024-25,KS
+Kentucky,Level 1,43,2024-25,KY
+Louisiana,Level 3,43,2024-25,LA
+Maine,Level 3,43,2024-25,ME
+Maryland,Level 4,43,2024-25,MD
+Massachusetts,Level 3,43,2024-25,MA
+Michigan,Level 2,43,2024-25,MI
+Minnesota,Level 1,43,2024-25,MN
+Mississippi,Level 1,43,2024-25,MS
+Missouri,Level 1,43,2024-25,MO
+Montana,Level 1,43,2024-25,MT
+Nebraska,Level 1,43,2024-25,NE
+Nevada,Level 1,43,2024-25,NV
+New Hampshire,Level 3,43,2024-25,NH
+New Jersey,Level 5,43,2024-25,NJ
+New Mexico,Level 1,43,2024-25,NM
+New York,Level 3,43,2024-25,NY
+North Carolina,Level 3,43,2024-25,NC
+North Dakota,Level 1,43,2024-25,ND
+Ohio,Level 4,43,2024-25,OH
+Oklahoma,Level 1,43,2024-25,OK
+Oregon,Level 1,43,2024-25,OR
+Pennsylvania,Level 2,43,2024-25,PA
+Rhode Island,Level 3,43,2024-25,RI
+South Carolina,Level 3,43,2024-25,SC
+South Dakota,Level 1,43,2024-25,SD
+Tennessee,Level 1,43,2024-25,TN
+Texas,Level 1,43,2024-25,TX
+Utah,Level 1,43,2024-25,UT
+Vermont,Level 1,43,2024-25,VT
+Virginia,Level 4,43,2024-25,VA
+Washington,Level 1,43,2024-25,WA
+West Virginia,Level 1,43,2024-25,WV
+Wisconsin,Level 3,43,2024-25,WI
+Wyoming,Level 1,43,2024-25,WY
+New York City,Level 3,43,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,43,2024-25,
+Puerto Rico,Level 1,43,2024-25,
+Virgin Islands,Level 1,43,2024-25,
+Alabama,Level 3,44,2024-25,AL
+Alaska,Level 2,44,2024-25,AK
+Arizona,Level 2,44,2024-25,AZ
+Arkansas,Level 2,44,2024-25,AR
+California,Level 2,44,2024-25,CA
+Colorado,Level 1,44,2024-25,CO
+Connecticut,Level 4,44,2024-25,CT
+Delaware,Level 1,44,2024-25,DE
+District of Columbia,Level 10,44,2024-25,
+Florida,Level 3,44,2024-25,FL
+Georgia,Level 4,44,2024-25,GA
+Hawaii,Level 1,44,2024-25,HI
+Idaho,Level 1,44,2024-25,ID
+Illinois,Level 1,44,2024-25,IL
+Indiana,Level 4,44,2024-25,IN
+Iowa,Level 2,44,2024-25,IA
+Kansas,Level 2,44,2024-25,KS
+Kentucky,Level 1,44,2024-25,KY
+Louisiana,Level 3,44,2024-25,LA
+Maine,Level 3,44,2024-25,ME
+Maryland,Level 4,44,2024-25,MD
+Massachusetts,Level 3,44,2024-25,MA
+Michigan,Level 2,44,2024-25,MI
+Minnesota,Level 1,44,2024-25,MN
+Mississippi,Level 2,44,2024-25,MS
+Missouri,Level 1,44,2024-25,MO
+Montana,Level 1,44,2024-25,MT
+Nebraska,Level 1,44,2024-25,NE
+Nevada,Level 1,44,2024-25,NV
+New Hampshire,Level 3,44,2024-25,NH
+New Jersey,Level 4,44,2024-25,NJ
+New Mexico,Level 1,44,2024-25,NM
+New York,Level 3,44,2024-25,NY
+North Carolina,Level 3,44,2024-25,NC
+North Dakota,Level 1,44,2024-25,ND
+Ohio,Level 4,44,2024-25,OH
+Oklahoma,Level 1,44,2024-25,OK
+Oregon,Level 1,44,2024-25,OR
+Pennsylvania,Level 3,44,2024-25,PA
+Rhode Island,Level 2,44,2024-25,RI
+South Carolina,Level 3,44,2024-25,SC
+South Dakota,Level 1,44,2024-25,SD
+Tennessee,Level 2,44,2024-25,TN
+Texas,Level 2,44,2024-25,TX
+Utah,Level 1,44,2024-25,UT
+Vermont,Level 1,44,2024-25,VT
+Virginia,Level 4,44,2024-25,VA
+Washington,Level 1,44,2024-25,WA
+West Virginia,Level 1,44,2024-25,WV
+Wisconsin,Level 3,44,2024-25,WI
+Wyoming,Level 1,44,2024-25,WY
+New York City,Level 3,44,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 3,44,2024-25,
+Puerto Rico,Level 1,44,2024-25,
+Virgin Islands,Level 3,44,2024-25,
+Alabama,Level 3,45,2024-25,AL
+Alaska,Level 1,45,2024-25,AK
+Arizona,Level 3,45,2024-25,AZ
+Arkansas,Level 2,45,2024-25,AR
+California,Level 3,45,2024-25,CA
+Colorado,Level 2,45,2024-25,CO
+Connecticut,Level 4,45,2024-25,CT
+Delaware,Level 1,45,2024-25,DE
+District of Columbia,Level 6,45,2024-25,
+Florida,Level 4,45,2024-25,FL
+Georgia,Level 5,45,2024-25,GA
+Hawaii,Level 1,45,2024-25,HI
+Idaho,Level 1,45,2024-25,ID
+Illinois,Level 1,45,2024-25,IL
+Indiana,Level 3,45,2024-25,IN
+Iowa,Level 1,45,2024-25,IA
+Kansas,Level 2,45,2024-25,KS
+Kentucky,Level 1,45,2024-25,KY
+Louisiana,Level 5,45,2024-25,LA
+Maine,Level 3,45,2024-25,ME
+Maryland,Level 4,45,2024-25,MD
+Massachusetts,Level 3,45,2024-25,MA
+Michigan,Level 2,45,2024-25,MI
+Minnesota,Level 1,45,2024-25,MN
+Mississippi,Level 3,45,2024-25,MS
+Missouri,Level 2,45,2024-25,MO
+Montana,Level 1,45,2024-25,MT
+Nebraska,Level 1,45,2024-25,NE
+Nevada,Level 2,45,2024-25,NV
+New Hampshire,Level 2,45,2024-25,NH
+New Jersey,Level 4,45,2024-25,NJ
+New Mexico,Level 2,45,2024-25,NM
+New York,Level 4,45,2024-25,NY
+North Carolina,Level 4,45,2024-25,NC
+North Dakota,Level 1,45,2024-25,ND
+Ohio,Level 4,45,2024-25,OH
+Oklahoma,Level 1,45,2024-25,OK
+Oregon,Level 2,45,2024-25,OR
+Pennsylvania,Level 3,45,2024-25,PA
+Rhode Island,Level 2,45,2024-25,RI
+South Carolina,Level 4,45,2024-25,SC
+South Dakota,Level 1,45,2024-25,SD
+Tennessee,Level 4,45,2024-25,TN
+Texas,Level 2,45,2024-25,TX
+Utah,Level 1,45,2024-25,UT
+Vermont,Level 1,45,2024-25,VT
+Virginia,Level 4,45,2024-25,VA
+Washington,Level 2,45,2024-25,WA
+West Virginia,Level 1,45,2024-25,WV
+Wisconsin,Level 3,45,2024-25,WI
+Wyoming,Level 1,45,2024-25,WY
+New York City,Level 3,45,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 3,45,2024-25,
+Puerto Rico,Level 2,45,2024-25,
+Virgin Islands,Level 5,45,2024-25,
+Alabama,Level 4,46,2024-25,AL
+Alaska,Level 2,46,2024-25,AK
+Arizona,Level 4,46,2024-25,AZ
+Arkansas,Level 2,46,2024-25,AR
+California,Level 4,46,2024-25,CA
+Colorado,Level 2,46,2024-25,CO
+Connecticut,Level 4,46,2024-25,CT
+Delaware,Level 1,46,2024-25,DE
+District of Columbia,Level 8,46,2024-25,
+Florida,Level 5,46,2024-25,FL
+Georgia,Level 6,46,2024-25,GA
+Hawaii,Level 1,46,2024-25,HI
+Idaho,Level 1,46,2024-25,ID
+Illinois,Level 1,46,2024-25,IL
+Indiana,Level 4,46,2024-25,IN
+Iowa,Level 1,46,2024-25,IA
+Kansas,Level 2,46,2024-25,KS
+Kentucky,Level 1,46,2024-25,KY
+Louisiana,Level 6,46,2024-25,LA
+Maine,Level 3,46,2024-25,ME
+Maryland,Level 4,46,2024-25,MD
+Massachusetts,Level 3,46,2024-25,MA
+Michigan,Level 2,46,2024-25,MI
+Minnesota,Level 1,46,2024-25,MN
+Mississippi,Level 3,46,2024-25,MS
+Missouri,Level 1,46,2024-25,MO
+Montana,Level 1,46,2024-25,MT
+Nebraska,Level 1,46,2024-25,NE
+Nevada,Level 3,46,2024-25,NV
+New Hampshire,Level 3,46,2024-25,NH
+New Jersey,Level 5,46,2024-25,NJ
+New Mexico,Level 3,46,2024-25,NM
+New York,Level 4,46,2024-25,NY
+North Carolina,Level 4,46,2024-25,NC
+North Dakota,Level 1,46,2024-25,ND
+Ohio,Level 5,46,2024-25,OH
+Oklahoma,Level 2,46,2024-25,OK
+Oregon,Level 2,46,2024-25,OR
+Pennsylvania,Level 3,46,2024-25,PA
+Rhode Island,Level 2,46,2024-25,RI
+South Carolina,Level 5,46,2024-25,SC
+South Dakota,Level 1,46,2024-25,SD
+Tennessee,Level 5,46,2024-25,TN
+Texas,Level 4,46,2024-25,TX
+Utah,Level 1,46,2024-25,UT
+Vermont,Level 1,46,2024-25,VT
+Virginia,Level 4,46,2024-25,VA
+Washington,Level 2,46,2024-25,WA
+West Virginia,Level 1,46,2024-25,WV
+Wisconsin,Level 3,46,2024-25,WI
+Wyoming,Level 1,46,2024-25,WY
+New York City,Level 4,46,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 5,46,2024-25,
+Puerto Rico,Level 3,46,2024-25,
+Virgin Islands,Level 2,46,2024-25,
+Alabama,Level 4,47,2024-25,AL
+Alaska,Level 1,47,2024-25,AK
+Arizona,Level 6,47,2024-25,AZ
+Arkansas,Level 3,47,2024-25,AR
+California,Level 5,47,2024-25,CA
+Colorado,Level 3,47,2024-25,CO
+Connecticut,Level 4,47,2024-25,CT
+Delaware,Level 1,47,2024-25,DE
+District of Columbia,Level 11,47,2024-25,
+Florida,Level 5,47,2024-25,FL
+Georgia,Level 7,47,2024-25,GA
+Hawaii,Level 1,47,2024-25,HI
+Idaho,Level 3,47,2024-25,ID
+Illinois,Level 2,47,2024-25,IL
+Indiana,Level 5,47,2024-25,IN
+Iowa,Level 1,47,2024-25,IA
+Kansas,Level 4,47,2024-25,KS
+Kentucky,Level 1,47,2024-25,KY
+Louisiana,Level 8,47,2024-25,LA
+Maine,Level 3,47,2024-25,ME
+Maryland,Level 5,47,2024-25,MD
+Massachusetts,Level 3,47,2024-25,MA
+Michigan,Level 2,47,2024-25,MI
+Minnesota,Level 1,47,2024-25,MN
+Mississippi,Level 3,47,2024-25,MS
+Missouri,Level 2,47,2024-25,MO
+Montana,Level 1,47,2024-25,MT
+Nebraska,Level 1,47,2024-25,NE
+Nevada,Level 4,47,2024-25,NV
+New Hampshire,Level 3,47,2024-25,NH
+New Jersey,Level 6,47,2024-25,NJ
+New Mexico,Level 3,47,2024-25,NM
+New York,Level 4,47,2024-25,NY
+North Carolina,Level 4,47,2024-25,NC
+North Dakota,Level 1,47,2024-25,ND
+Ohio,Level 5,47,2024-25,OH
+Oklahoma,Level 2,47,2024-25,OK
+Oregon,Level 4,47,2024-25,OR
+Pennsylvania,Level 3,47,2024-25,PA
+Rhode Island,Level 2,47,2024-25,RI
+South Carolina,Level 5,47,2024-25,SC
+South Dakota,Level 1,47,2024-25,SD
+Tennessee,Level 4,47,2024-25,TN
+Texas,Level 5,47,2024-25,TX
+Utah,Level 1,47,2024-25,UT
+Vermont,Level 1,47,2024-25,VT
+Virginia,Level 5,47,2024-25,VA
+Washington,Level 3,47,2024-25,WA
+West Virginia,Level 1,47,2024-25,WV
+Wisconsin,Level 4,47,2024-25,WI
+Wyoming,Level 3,47,2024-25,WY
+New York City,Level 5,47,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,47,2024-25,
+Puerto Rico,Level 1,47,2024-25,
+Virgin Islands,Level 5,47,2024-25,
+Alabama,Level 7,48,2024-25,AL
+Alaska,Level 3,48,2024-25,AK
+Arizona,Level 8,48,2024-25,AZ
+Arkansas,Level 3,48,2024-25,AR
+California,Level 7,48,2024-25,CA
+Colorado,Level 3,48,2024-25,CO
+Connecticut,Level 5,48,2024-25,CT
+Delaware,Level 1,48,2024-25,DE
+District of Columbia,Level 11,48,2024-25,
+Florida,Level 5,48,2024-25,FL
+Georgia,Level 8,48,2024-25,GA
+Hawaii,Level 1,48,2024-25,HI
+Idaho,Level 4,48,2024-25,ID
+Illinois,Level 3,48,2024-25,IL
+Indiana,Level 5,48,2024-25,IN
+Iowa,Level 2,48,2024-25,IA
+Kansas,Level 5,48,2024-25,KS
+Kentucky,Level 2,48,2024-25,KY
+Louisiana,Level 10,48,2024-25,LA
+Maine,Level 2,48,2024-25,ME
+Maryland,Level 5,48,2024-25,MD
+Massachusetts,Level 4,48,2024-25,MA
+Michigan,Level 3,48,2024-25,MI
+Minnesota,Level 1,48,2024-25,MN
+Mississippi,Level 6,48,2024-25,MS
+Missouri,Level 2,48,2024-25,MO
+Montana,Level 1,48,2024-25,MT
+Nebraska,Level 2,48,2024-25,NE
+Nevada,Level 6,48,2024-25,NV
+New Hampshire,Level 4,48,2024-25,NH
+New Jersey,Level 7,48,2024-25,NJ
+New Mexico,Level 6,48,2024-25,NM
+New York,Level 4,48,2024-25,NY
+North Carolina,Level 4,48,2024-25,NC
+North Dakota,Level 1,48,2024-25,ND
+Ohio,Level 5,48,2024-25,OH
+Oklahoma,Level 2,48,2024-25,OK
+Oregon,Level 5,48,2024-25,OR
+Pennsylvania,Level 3,48,2024-25,PA
+Rhode Island,Level 3,48,2024-25,RI
+South Carolina,Level 5,48,2024-25,SC
+South Dakota,Level 2,48,2024-25,SD
+Tennessee,Level 7,48,2024-25,TN
+Texas,Level 6,48,2024-25,TX
+Utah,Level 1,48,2024-25,UT
+Vermont,Level 1,48,2024-25,VT
+Virginia,Level 5,48,2024-25,VA
+Washington,Level 4,48,2024-25,WA
+West Virginia,Level 1,48,2024-25,WV
+Wisconsin,Level 4,48,2024-25,WI
+Wyoming,Level 1,48,2024-25,WY
+New York City,Level 6,48,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 2,48,2024-25,
+Puerto Rico,Level 1,48,2024-25,
+Virgin Islands,Level 1,48,2024-25,
+Alabama,Level 1,40,2024-25,AL
+Alaska,Level 1,40,2024-25,AK
+Arizona,Level 1,40,2024-25,AZ
+Arkansas,Level 1,40,2024-25,AR
+California,Level 1,40,2024-25,CA
+Colorado,Level 1,40,2024-25,CO
+Connecticut,Level 3,40,2024-25,CT
+Delaware,Level 1,40,2024-25,DE
+District of Columbia,Level 2,40,2024-25,
+Florida,Level 1,40,2024-25,FL
+Georgia,Level 2,40,2024-25,GA
+Hawaii,Level 1,40,2024-25,HI
+Idaho,Level 1,40,2024-25,ID
+Illinois,Level 1,40,2024-25,IL
+Indiana,Level 3,40,2024-25,IN
+Iowa,Level 1,40,2024-25,IA
+Kansas,Level 1,40,2024-25,KS
+Kentucky,Level 1,40,2024-25,KY
+Louisiana,Level 1,40,2024-25,LA
+Maine,Level 1,40,2024-25,ME
+Maryland,Level 2,40,2024-25,MD
+Massachusetts,Level 2,40,2024-25,MA
+Michigan,Level 1,40,2024-25,MI
+Minnesota,Level 1,40,2024-25,MN
+Mississippi,Level 2,40,2024-25,MS
+Missouri,Level 1,40,2024-25,MO
+Montana,Level 1,40,2024-25,MT
+Nebraska,Level 1,40,2024-25,NE
+Nevada,Level 1,40,2024-25,NV
+New Hampshire,Level 2,40,2024-25,NH
+New Jersey,Level 3,40,2024-25,NJ
+New Mexico,Level 1,40,2024-25,NM
+New York,Level 2,40,2024-25,NY
+North Carolina,Level 2,40,2024-25,NC
+North Dakota,Level 1,40,2024-25,ND
+Ohio,Level 1,40,2024-25,OH
+Oklahoma,Level 1,40,2024-25,OK
+Oregon,Level 1,40,2024-25,OR
+Pennsylvania,Level 2,40,2024-25,PA
+Rhode Island,Level 2,40,2024-25,RI
+South Carolina,Level 1,40,2024-25,SC
+South Dakota,Level 1,40,2024-25,SD
+Tennessee,Level 1,40,2024-25,TN
+Texas,Level 1,40,2024-25,TX
+Utah,Level 1,40,2024-25,UT
+Vermont,Level 1,40,2024-25,VT
+Virginia,Level 2,40,2024-25,VA
+Washington,Level 1,40,2024-25,WA
+West Virginia,Level 1,40,2024-25,WV
+Wisconsin,Level 2,40,2024-25,WI
+Wyoming,Level 1,40,2024-25,WY
+New York City,Level 2,40,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,40,2024-25,
+Puerto Rico,Level 1,40,2024-25,
+Virgin Islands,Level 2,40,2024-25,
+Alabama,Level 2,41,2024-25,AL
+Alaska,Level 1,41,2024-25,AK
+Arizona,Level 1,41,2024-25,AZ
+Arkansas,Level 1,41,2024-25,AR
+California,Level 1,41,2024-25,CA
+Colorado,Level 1,41,2024-25,CO
+Connecticut,Level 3,41,2024-25,CT
+Delaware,Level 1,41,2024-25,DE
+District of Columbia,Level 4,41,2024-25,
+Florida,Level 1,41,2024-25,FL
+Georgia,Level 2,41,2024-25,GA
+Hawaii,Level 1,41,2024-25,HI
+Idaho,Level 1,41,2024-25,ID
+Illinois,Level 1,41,2024-25,IL
+Indiana,Level 3,41,2024-25,IN
+Iowa,Level 1,41,2024-25,IA
+Kansas,Level 1,41,2024-25,KS
+Kentucky,Level 1,41,2024-25,KY
+Louisiana,Level 1,41,2024-25,LA
+Maine,Level 2,41,2024-25,ME
+Maryland,Level 3,41,2024-25,MD
+Massachusetts,Level 2,41,2024-25,MA
+Michigan,Level 1,41,2024-25,MI
+Minnesota,Level 1,41,2024-25,MN
+Mississippi,Level 2,41,2024-25,MS
+Missouri,Level 1,41,2024-25,MO
+Montana,Level 1,41,2024-25,MT
+Nebraska,Level 1,41,2024-25,NE
+Nevada,Level 1,41,2024-25,NV
+New Hampshire,Level 2,41,2024-25,NH
+New Jersey,Level 4,41,2024-25,NJ
+New Mexico,Level 1,41,2024-25,NM
+New York,Level 3,41,2024-25,NY
+North Carolina,Level 2,41,2024-25,NC
+North Dakota,Level 1,41,2024-25,ND
+Ohio,Level 2,41,2024-25,OH
+Oklahoma,Level 1,41,2024-25,OK
+Oregon,Level 1,41,2024-25,OR
+Pennsylvania,Level 2,41,2024-25,PA
+Rhode Island,Level 2,41,2024-25,RI
+South Carolina,Level 2,41,2024-25,SC
+South Dakota,Level 1,41,2024-25,SD
+Tennessee,Level 1,41,2024-25,TN
+Texas,Level 1,41,2024-25,TX
+Utah,Level 1,41,2024-25,UT
+Vermont,Level 1,41,2024-25,VT
+Virginia,Level 3,41,2024-25,VA
+Washington,Level 1,41,2024-25,WA
+West Virginia,Level 1,41,2024-25,WV
+Wisconsin,Level 3,41,2024-25,WI
+Wyoming,Level 1,41,2024-25,WY
+New York City,Level 3,41,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,41,2024-25,
+Puerto Rico,Level 1,41,2024-25,
+Virgin Islands,Level 1,41,2024-25,
+Alabama,Level 2,42,2024-25,AL
+Alaska,Level 3,42,2024-25,AK
+Arizona,Level 1,42,2024-25,AZ
+Arkansas,Level 1,42,2024-25,AR
+California,Level 1,42,2024-25,CA
+Colorado,Level 1,42,2024-25,CO
+Connecticut,Level 4,42,2024-25,CT
+Delaware,Level 1,42,2024-25,DE
+District of Columbia,Level 6,42,2024-25,
+Florida,Level 1,42,2024-25,FL
+Georgia,Level 2,42,2024-25,GA
+Hawaii,Level 1,42,2024-25,HI
+Idaho,Level 1,42,2024-25,ID
+Illinois,Level 1,42,2024-25,IL
+Indiana,Level 4,42,2024-25,IN
+Iowa,Level 1,42,2024-25,IA
+Kansas,Level 1,42,2024-25,KS
+Kentucky,Level 1,42,2024-25,KY
+Louisiana,Level 1,42,2024-25,LA
+Maine,Level 2,42,2024-25,ME
+Maryland,Level 3,42,2024-25,MD
+Massachusetts,Level 3,42,2024-25,MA
+Michigan,Level 1,42,2024-25,MI
+Minnesota,Level 1,42,2024-25,MN
+Mississippi,Level 1,42,2024-25,MS
+Missouri,Level 2,42,2024-25,MO
+Montana,Level 1,42,2024-25,MT
+Nebraska,Level 1,42,2024-25,NE
+Nevada,Level 1,42,2024-25,NV
+New Hampshire,Level 2,42,2024-25,NH
+New Jersey,Level 5,42,2024-25,NJ
+New Mexico,Level 1,42,2024-25,NM
+New York,Level 3,42,2024-25,NY
+North Carolina,Level 3,42,2024-25,NC
+North Dakota,Level 1,42,2024-25,ND
+Ohio,Level 4,42,2024-25,OH
+Oklahoma,Level 1,42,2024-25,OK
+Oregon,Level 1,42,2024-25,OR
+Pennsylvania,Level 2,42,2024-25,PA
+Rhode Island,Level 3,42,2024-25,RI
+South Carolina,Level 3,42,2024-25,SC
+South Dakota,Level 1,42,2024-25,SD
+Tennessee,Level 1,42,2024-25,TN
+Texas,Level 1,42,2024-25,TX
+Utah,Level 1,42,2024-25,UT
+Vermont,Level 1,42,2024-25,VT
+Virginia,Level 4,42,2024-25,VA
+Washington,Level 1,42,2024-25,WA
+West Virginia,Level 1,42,2024-25,WV
+Wisconsin,Level 3,42,2024-25,WI
+Wyoming,Level 1,42,2024-25,WY
+New York City,Level 3,42,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,42,2024-25,
+Puerto Rico,Level 1,42,2024-25,
+Virgin Islands,Level 1,42,2024-25,
+Alabama,Level 2,43,2024-25,AL
+Alaska,Level 1,43,2024-25,AK
+Arizona,Level 1,43,2024-25,AZ
+Arkansas,Level 2,43,2024-25,AR
+California,Level 1,43,2024-25,CA
+Colorado,Level 1,43,2024-25,CO
+Connecticut,Level 4,43,2024-25,CT
+Delaware,Level 1,43,2024-25,DE
+District of Columbia,Level 7,43,2024-25,
+Florida,Level 2,43,2024-25,FL
+Georgia,Level 4,43,2024-25,GA
+Hawaii,Level 1,43,2024-25,HI
+Idaho,Level 1,43,2024-25,ID
+Illinois,Level 1,43,2024-25,IL
+Indiana,Level 4,43,2024-25,IN
+Iowa,Level 2,43,2024-25,IA
+Kansas,Level 2,43,2024-25,KS
+Kentucky,Level 1,43,2024-25,KY
+Louisiana,Level 3,43,2024-25,LA
+Maine,Level 3,43,2024-25,ME
+Maryland,Level 4,43,2024-25,MD
+Massachusetts,Level 3,43,2024-25,MA
+Michigan,Level 2,43,2024-25,MI
+Minnesota,Level 1,43,2024-25,MN
+Mississippi,Level 1,43,2024-25,MS
+Missouri,Level 1,43,2024-25,MO
+Montana,Level 1,43,2024-25,MT
+Nebraska,Level 1,43,2024-25,NE
+Nevada,Level 1,43,2024-25,NV
+New Hampshire,Level 3,43,2024-25,NH
+New Jersey,Level 5,43,2024-25,NJ
+New Mexico,Level 1,43,2024-25,NM
+New York,Level 3,43,2024-25,NY
+North Carolina,Level 3,43,2024-25,NC
+North Dakota,Level 1,43,2024-25,ND
+Ohio,Level 4,43,2024-25,OH
+Oklahoma,Level 1,43,2024-25,OK
+Oregon,Level 1,43,2024-25,OR
+Pennsylvania,Level 2,43,2024-25,PA
+Rhode Island,Level 3,43,2024-25,RI
+South Carolina,Level 3,43,2024-25,SC
+South Dakota,Level 1,43,2024-25,SD
+Tennessee,Level 1,43,2024-25,TN
+Texas,Level 1,43,2024-25,TX
+Utah,Level 1,43,2024-25,UT
+Vermont,Level 1,43,2024-25,VT
+Virginia,Level 4,43,2024-25,VA
+Washington,Level 1,43,2024-25,WA
+West Virginia,Level 1,43,2024-25,WV
+Wisconsin,Level 3,43,2024-25,WI
+Wyoming,Level 1,43,2024-25,WY
+New York City,Level 3,43,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,43,2024-25,
+Puerto Rico,Level 1,43,2024-25,
+Virgin Islands,Level 1,43,2024-25,
+Alabama,Level 3,44,2024-25,AL
+Alaska,Level 2,44,2024-25,AK
+Arizona,Level 2,44,2024-25,AZ
+Arkansas,Level 2,44,2024-25,AR
+California,Level 2,44,2024-25,CA
+Colorado,Level 1,44,2024-25,CO
+Connecticut,Level 4,44,2024-25,CT
+Delaware,Level 1,44,2024-25,DE
+District of Columbia,Level 10,44,2024-25,
+Florida,Level 3,44,2024-25,FL
+Georgia,Level 4,44,2024-25,GA
+Hawaii,Level 1,44,2024-25,HI
+Idaho,Level 1,44,2024-25,ID
+Illinois,Level 1,44,2024-25,IL
+Indiana,Level 4,44,2024-25,IN
+Iowa,Level 2,44,2024-25,IA
+Kansas,Level 2,44,2024-25,KS
+Kentucky,Level 1,44,2024-25,KY
+Louisiana,Level 3,44,2024-25,LA
+Maine,Level 3,44,2024-25,ME
+Maryland,Level 4,44,2024-25,MD
+Massachusetts,Level 3,44,2024-25,MA
+Michigan,Level 2,44,2024-25,MI
+Minnesota,Level 1,44,2024-25,MN
+Mississippi,Level 2,44,2024-25,MS
+Missouri,Level 1,44,2024-25,MO
+Montana,Level 1,44,2024-25,MT
+Nebraska,Level 1,44,2024-25,NE
+Nevada,Level 1,44,2024-25,NV
+New Hampshire,Level 3,44,2024-25,NH
+New Jersey,Level 4,44,2024-25,NJ
+New Mexico,Level 1,44,2024-25,NM
+New York,Level 3,44,2024-25,NY
+North Carolina,Level 3,44,2024-25,NC
+North Dakota,Level 1,44,2024-25,ND
+Ohio,Level 4,44,2024-25,OH
+Oklahoma,Level 1,44,2024-25,OK
+Oregon,Level 1,44,2024-25,OR
+Pennsylvania,Level 3,44,2024-25,PA
+Rhode Island,Level 2,44,2024-25,RI
+South Carolina,Level 3,44,2024-25,SC
+South Dakota,Level 1,44,2024-25,SD
+Tennessee,Level 2,44,2024-25,TN
+Texas,Level 2,44,2024-25,TX
+Utah,Level 1,44,2024-25,UT
+Vermont,Level 1,44,2024-25,VT
+Virginia,Level 4,44,2024-25,VA
+Washington,Level 1,44,2024-25,WA
+West Virginia,Level 1,44,2024-25,WV
+Wisconsin,Level 3,44,2024-25,WI
+Wyoming,Level 1,44,2024-25,WY
+New York City,Level 3,44,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 3,44,2024-25,
+Puerto Rico,Level 1,44,2024-25,
+Virgin Islands,Level 3,44,2024-25,
+Alabama,Level 3,45,2024-25,AL
+Alaska,Level 1,45,2024-25,AK
+Arizona,Level 3,45,2024-25,AZ
+Arkansas,Level 2,45,2024-25,AR
+California,Level 3,45,2024-25,CA
+Colorado,Level 2,45,2024-25,CO
+Connecticut,Level 4,45,2024-25,CT
+Delaware,Level 1,45,2024-25,DE
+District of Columbia,Level 6,45,2024-25,
+Florida,Level 4,45,2024-25,FL
+Georgia,Level 5,45,2024-25,GA
+Hawaii,Level 1,45,2024-25,HI
+Idaho,Level 1,45,2024-25,ID
+Illinois,Level 1,45,2024-25,IL
+Indiana,Level 3,45,2024-25,IN
+Iowa,Level 1,45,2024-25,IA
+Kansas,Level 2,45,2024-25,KS
+Kentucky,Level 1,45,2024-25,KY
+Louisiana,Level 5,45,2024-25,LA
+Maine,Level 3,45,2024-25,ME
+Maryland,Level 4,45,2024-25,MD
+Massachusetts,Level 3,45,2024-25,MA
+Michigan,Level 2,45,2024-25,MI
+Minnesota,Level 1,45,2024-25,MN
+Mississippi,Level 3,45,2024-25,MS
+Missouri,Level 2,45,2024-25,MO
+Montana,Level 1,45,2024-25,MT
+Nebraska,Level 1,45,2024-25,NE
+Nevada,Level 2,45,2024-25,NV
+New Hampshire,Level 2,45,2024-25,NH
+New Jersey,Level 4,45,2024-25,NJ
+New Mexico,Level 2,45,2024-25,NM
+New York,Level 4,45,2024-25,NY
+North Carolina,Level 4,45,2024-25,NC
+North Dakota,Level 1,45,2024-25,ND
+Ohio,Level 4,45,2024-25,OH
+Oklahoma,Level 1,45,2024-25,OK
+Oregon,Level 2,45,2024-25,OR
+Pennsylvania,Level 3,45,2024-25,PA
+Rhode Island,Level 2,45,2024-25,RI
+South Carolina,Level 4,45,2024-25,SC
+South Dakota,Level 1,45,2024-25,SD
+Tennessee,Level 4,45,2024-25,TN
+Texas,Level 2,45,2024-25,TX
+Utah,Level 1,45,2024-25,UT
+Vermont,Level 1,45,2024-25,VT
+Virginia,Level 4,45,2024-25,VA
+Washington,Level 2,45,2024-25,WA
+West Virginia,Level 1,45,2024-25,WV
+Wisconsin,Level 3,45,2024-25,WI
+Wyoming,Level 1,45,2024-25,WY
+New York City,Level 3,45,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 3,45,2024-25,
+Puerto Rico,Level 2,45,2024-25,
+Virgin Islands,Level 5,45,2024-25,
+Alabama,Level 4,46,2024-25,AL
+Alaska,Level 2,46,2024-25,AK
+Arizona,Level 4,46,2024-25,AZ
+Arkansas,Level 2,46,2024-25,AR
+California,Level 4,46,2024-25,CA
+Colorado,Level 2,46,2024-25,CO
+Connecticut,Level 4,46,2024-25,CT
+Delaware,Level 1,46,2024-25,DE
+District of Columbia,Level 8,46,2024-25,
+Florida,Level 5,46,2024-25,FL
+Georgia,Level 6,46,2024-25,GA
+Hawaii,Level 1,46,2024-25,HI
+Idaho,Level 1,46,2024-25,ID
+Illinois,Level 1,46,2024-25,IL
+Indiana,Level 4,46,2024-25,IN
+Iowa,Level 1,46,2024-25,IA
+Kansas,Level 2,46,2024-25,KS
+Kentucky,Level 1,46,2024-25,KY
+Louisiana,Level 6,46,2024-25,LA
+Maine,Level 3,46,2024-25,ME
+Maryland,Level 4,46,2024-25,MD
+Massachusetts,Level 3,46,2024-25,MA
+Michigan,Level 2,46,2024-25,MI
+Minnesota,Level 1,46,2024-25,MN
+Mississippi,Level 3,46,2024-25,MS
+Missouri,Level 1,46,2024-25,MO
+Montana,Level 1,46,2024-25,MT
+Nebraska,Level 1,46,2024-25,NE
+Nevada,Level 3,46,2024-25,NV
+New Hampshire,Level 3,46,2024-25,NH
+New Jersey,Level 5,46,2024-25,NJ
+New Mexico,Level 3,46,2024-25,NM
+New York,Level 4,46,2024-25,NY
+North Carolina,Level 4,46,2024-25,NC
+North Dakota,Level 1,46,2024-25,ND
+Ohio,Level 5,46,2024-25,OH
+Oklahoma,Level 2,46,2024-25,OK
+Oregon,Level 2,46,2024-25,OR
+Pennsylvania,Level 3,46,2024-25,PA
+Rhode Island,Level 2,46,2024-25,RI
+South Carolina,Level 5,46,2024-25,SC
+South Dakota,Level 1,46,2024-25,SD
+Tennessee,Level 5,46,2024-25,TN
+Texas,Level 4,46,2024-25,TX
+Utah,Level 1,46,2024-25,UT
+Vermont,Level 1,46,2024-25,VT
+Virginia,Level 4,46,2024-25,VA
+Washington,Level 2,46,2024-25,WA
+West Virginia,Level 1,46,2024-25,WV
+Wisconsin,Level 3,46,2024-25,WI
+Wyoming,Level 1,46,2024-25,WY
+New York City,Level 4,46,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 5,46,2024-25,
+Puerto Rico,Level 3,46,2024-25,
+Virgin Islands,Level 2,46,2024-25,
+Alabama,Level 4,47,2024-25,AL
+Alaska,Level 1,47,2024-25,AK
+Arizona,Level 6,47,2024-25,AZ
+Arkansas,Level 3,47,2024-25,AR
+California,Level 5,47,2024-25,CA
+Colorado,Level 3,47,2024-25,CO
+Connecticut,Level 4,47,2024-25,CT
+Delaware,Level 1,47,2024-25,DE
+District of Columbia,Level 11,47,2024-25,
+Florida,Level 5,47,2024-25,FL
+Georgia,Level 7,47,2024-25,GA
+Hawaii,Level 1,47,2024-25,HI
+Idaho,Level 3,47,2024-25,ID
+Illinois,Level 2,47,2024-25,IL
+Indiana,Level 5,47,2024-25,IN
+Iowa,Level 1,47,2024-25,IA
+Kansas,Level 4,47,2024-25,KS
+Kentucky,Level 1,47,2024-25,KY
+Louisiana,Level 8,47,2024-25,LA
+Maine,Level 3,47,2024-25,ME
+Maryland,Level 5,47,2024-25,MD
+Massachusetts,Level 3,47,2024-25,MA
+Michigan,Level 2,47,2024-25,MI
+Minnesota,Level 1,47,2024-25,MN
+Mississippi,Level 3,47,2024-25,MS
+Missouri,Level 2,47,2024-25,MO
+Montana,Level 1,47,2024-25,MT
+Nebraska,Level 1,47,2024-25,NE
+Nevada,Level 4,47,2024-25,NV
+New Hampshire,Level 3,47,2024-25,NH
+New Jersey,Level 6,47,2024-25,NJ
+New Mexico,Level 3,47,2024-25,NM
+New York,Level 4,47,2024-25,NY
+North Carolina,Level 4,47,2024-25,NC
+North Dakota,Level 1,47,2024-25,ND
+Ohio,Level 5,47,2024-25,OH
+Oklahoma,Level 2,47,2024-25,OK
+Oregon,Level 4,47,2024-25,OR
+Pennsylvania,Level 3,47,2024-25,PA
+Rhode Island,Level 2,47,2024-25,RI
+South Carolina,Level 5,47,2024-25,SC
+South Dakota,Level 1,47,2024-25,SD
+Tennessee,Level 4,47,2024-25,TN
+Texas,Level 5,47,2024-25,TX
+Utah,Level 1,47,2024-25,UT
+Vermont,Level 1,47,2024-25,VT
+Virginia,Level 5,47,2024-25,VA
+Washington,Level 3,47,2024-25,WA
+West Virginia,Level 1,47,2024-25,WV
+Wisconsin,Level 4,47,2024-25,WI
+Wyoming,Level 3,47,2024-25,WY
+New York City,Level 5,47,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 1,47,2024-25,
+Puerto Rico,Level 1,47,2024-25,
+Virgin Islands,Level 5,47,2024-25,
+Alabama,Level 7,48,2024-25,AL
+Alaska,Level 3,48,2024-25,AK
+Arizona,Level 8,48,2024-25,AZ
+Arkansas,Level 3,48,2024-25,AR
+California,Level 7,48,2024-25,CA
+Colorado,Level 3,48,2024-25,CO
+Connecticut,Level 5,48,2024-25,CT
+Delaware,Level 1,48,2024-25,DE
+District of Columbia,Level 11,48,2024-25,
+Florida,Level 5,48,2024-25,FL
+Georgia,Level 8,48,2024-25,GA
+Hawaii,Level 1,48,2024-25,HI
+Idaho,Level 4,48,2024-25,ID
+Illinois,Level 3,48,2024-25,IL
+Indiana,Level 5,48,2024-25,IN
+Iowa,Level 2,48,2024-25,IA
+Kansas,Level 5,48,2024-25,KS
+Kentucky,Level 2,48,2024-25,KY
+Louisiana,Level 10,48,2024-25,LA
+Maine,Level 2,48,2024-25,ME
+Maryland,Level 5,48,2024-25,MD
+Massachusetts,Level 4,48,2024-25,MA
+Michigan,Level 3,48,2024-25,MI
+Minnesota,Level 1,48,2024-25,MN
+Mississippi,Level 6,48,2024-25,MS
+Missouri,Level 2,48,2024-25,MO
+Montana,Level 1,48,2024-25,MT
+Nebraska,Level 2,48,2024-25,NE
+Nevada,Level 6,48,2024-25,NV
+New Hampshire,Level 4,48,2024-25,NH
+New Jersey,Level 7,48,2024-25,NJ
+New Mexico,Level 6,48,2024-25,NM
+New York,Level 4,48,2024-25,NY
+North Carolina,Level 4,48,2024-25,NC
+North Dakota,Level 1,48,2024-25,ND
+Ohio,Level 5,48,2024-25,OH
+Oklahoma,Level 2,48,2024-25,OK
+Oregon,Level 5,48,2024-25,OR
+Pennsylvania,Level 3,48,2024-25,PA
+Rhode Island,Level 3,48,2024-25,RI
+South Carolina,Level 5,48,2024-25,SC
+South Dakota,Level 2,48,2024-25,SD
+Tennessee,Level 7,48,2024-25,TN
+Texas,Level 6,48,2024-25,TX
+Utah,Level 1,48,2024-25,UT
+Vermont,Level 1,48,2024-25,VT
+Virginia,Level 5,48,2024-25,VA
+Washington,Level 4,48,2024-25,WA
+West Virginia,Level 1,48,2024-25,WV
+Wisconsin,Level 4,48,2024-25,WI
+Wyoming,Level 1,48,2024-25,WY
+New York City,Level 6,48,2024-25,
+Commonwealth of the Northern Mariana Islands,Level 2,48,2024-25,
+Puerto Rico,Level 1,48,2024-25,
+Virgin Islands,Level 1,48,2024-25,
