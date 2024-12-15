@@ -28,6 +28,7 @@ To run this analysis, you'll need:
 - Required Python packages:
 - pandas
 - matplotlib
+- ethical considerations
 ## Usage
 1. Clone this repository
 2. Install the required dependencies
