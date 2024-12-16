@@ -1,38 +1,39 @@
 # Project-3
-# NREVSS Public Health Data Analysis
+# Data Visualization Project To Analyze Flu Trends  by US States,Age Groups and Virus Types 
 
 ## Project Overview
-This project analyzes public health data from the National Respiratory and Enteric Virus Surveillance System (NREVSS), focusing on influenza surveillance and mortality data across different states in the United States.
+This project aims to create an interactive data visualization application using 
+Python, specifically with Dash and Plotly. This project will analyze and visualize 
+influenza trends, mortality rates, state-wise activity levels, and virus type 
+distributions using historical data. The project will help identify key patterns, 
+anomalies, and correlations that could inform public health decision-making
 
-## Data Sources
-The project utilizes several datasets located in the `Data` directory:
-- `AgeViewBySeason.csv`: Flu data analyzed by age groups and seasons
-- `MortalityDataUpdated(State).csv`: Updated mortality statistics by state
-- `Mortality_New.csv`: Recent mortality data
-- `State_Activity_Level.csv`: Flu activity levels by state
-- `Virus_Types_by_State.csv`: Distribution of different virus types across states
-- `flu_data_by_state.csv`: Comprehensive flu statistics by state
+## Data Source
+[
+](https://www.cdc.gov/fluview/overview/fluview-interactive.html)
 
-## Analysis
-The main analysis is conducted in the Jupyter notebook `NREVSS_Public_Health.ipynb`, which includes:
-- Data preprocessing and cleaning
-- Statistical analysis of flu trends
-- Visualization of health data
-- State-by-state comparisons
-- Mortality rate analysis
+## Specificity the Data Accessed:
+National, Regional, and State Level Outpatient Illness and Viral 
+Surveillance Data
+Age Group Distribution of Influenza Positive Tests Reported by 
+Public Health Laboratories Data
+Outpatient Respiratory Illness Activity Map 
+Influenza Mortality Surveillance from the National Center for health Statistics Mortality Surveillance System data.
 
-## Requirements
-To run this analysis, you'll need:
-- Python 3.x
-- Jupyter Notebook
-- Required Python packages:
-- pandas
-- matplotlib
-- ethical considerations
-## Usage
-1. Clone this repository
-2. Install the required dependencies
-3. Open `NREVSS_Public_Health.ipynb` in Jupyter Notebook
-4. Run the cells sequentially to reproduce the analysis
+### Tools:
+Python Libraries:
+Pandas: For data manipulation and analysis.
+Matplotlib: For creating static visualizations.
+Plotly/Dash: For interactive visualizations and dashboards.
 
-## Project Structure
+ ### Project Structure
+1. Data is loaded from PostgreSQL using  SQL Alchemy and Pandas and cleaned.
+2. Analysis is done to explore various trends and visualizations are created.
+3. Dashboard is developedwith filters to view trends interactively.
+
+## Instructions to Use:
+Run the app.py file in terminal or through VS code.The dash board will start running in a port.Hover over the figure to see the data displayed in pop ups.
+
+To use the user input dashboard,enter the week in drop down menu for which you want to see the result and the result will be displayed as chloropleth map for that week.
+
+<img width="1680" alt="Screenshot 2024-12-15 at 8 34 00 PM" src="https://github.com/user-attachments/assets/61473c28-a6b3-4a41-8af4-6732bfc0134b" />
